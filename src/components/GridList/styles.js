@@ -32,5 +32,6 @@ export default ({
     borderTopWidth: separatorBorderWidth,
     borderBottomWidth: separatorBorderWidth,
     borderColor: separatorBorderColor,
+    alignItems: 'flex-start'
   },
 });
